@@ -1,5 +1,5 @@
 ---
-title: "2025 Surf: Exploring the Relationship Between Lifestyle Factors and Breast Cancer"
+title: "Exploring the Relationship Between Lifestyle Factors and Breast Cancer"
 format: html
 editor: visual
 output: 
@@ -9,7 +9,10 @@ output:
     toc_float: true
 ---
 
-# Hi, this is our surf
+# This is our surf in 2025:
+
+Welcome to our project site! Utilizing UK biobank data, we investigate how lifestyle choices impact breast cancer risk. Our goal is to identify key factors that may influence disease development, aiming to inform prevention strategies. Explore our findings here!
+
 - [Model and Visualization](Model.html)
 - [Descriptive table](descriptive_table.html)
 - [Descriptive graph](descriptive_graph.html)
