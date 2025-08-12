@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "2025 Surf: Exploring the Relationship Between Lifestyle Factors and Breast Cancer"
 format: html
 editor: visual
 output: 
@@ -11,3 +11,5 @@ output:
 
 # Hi, this is our surf
 - [Model and Visualization](Model.html)
+- [Descriptive table](descriptive_table.html)
+- [Descriptive graph](descriptive_graph.html)
