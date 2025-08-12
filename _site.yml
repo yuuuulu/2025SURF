@@ -1,0 +1,19 @@
+name: "2025SURF"
+output_dir: "docs"
+navbar:
+  title: "Exploring the Relationship Between Lifestyle Factors and Breast Cancer"
+  right:
+    - text: "Homepage"
+      href: index.html
+    - text: "Model and Visualization"
+      href: Model.html
+    - text: "Descriptive Table"
+      href: descriptive_table.html
+    - text: "Descriptive Graph"
+      href: descriptive_graph.html
+
+    #- text: "Resources"
+    #  href: resource.html
+output:
+  html_document:
+    theme: bootstrap
