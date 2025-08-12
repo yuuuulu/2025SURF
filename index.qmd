@@ -20,4 +20,11 @@ Our Group Menber: Jiahui.Qiu, Yu.Lu, Hao.Zheng, Hanwen.Liu, Yinfan.Xing, Huaiyin
 - [Model and Visualization](Model.html)
 
 
+![Table 1:Descriptive Table](descriptive table.jpg)
+
+![Figure 1:Descriptive graph](descriptive_graph.png)
+![Figure 2:Circle Barplot of OR](circle_barplot.png)
+
+![Figure 3:Logistic Regression: Odds ratios](CI_forest_plot.png)
+
 
