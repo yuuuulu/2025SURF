@@ -13,7 +13,7 @@ output:
 
 Welcome to our project site! Utilizing UK biobank data, we investigate how lifestyle choices impact breast cancer risk. Our goal is to identify key factors that may influence disease development, aiming to inform prevention strategies. Explore our work and findings here!
 
-![Figure 1:Poster](Poster.jpg)
+hihihihhi
 
 -   [Descriptive table](descriptive_table.html)
 -   [Descriptive graph](descriptive_graph.html)
@@ -24,11 +24,11 @@ Welcome to our project site! Utilizing UK biobank data, we investigate how lifes
 
 
 
-![Figure 2:Descriptive graph](descriptive_graph.png)
+![Figure 1:Descriptive graph](descriptive_graph.png)
 
-![Figure 3:Circle Barplot of OR](circle_barplot.png)
+![Figure 2:Circle Barplot of OR](circle_barplot.png)
 
-![Figure 4:Logistic Regression: Odds ratios](CI_forest_plot.png)
+![Figure 3:Logistic Regression: Odds ratios](CI_forest_plot.png)
 
 
 
